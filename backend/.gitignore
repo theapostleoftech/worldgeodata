@@ -1,0 +1,22 @@
+# Python
+.venv/
+venv/
+__pycache__/
+**/*.py[cod]
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Coverage
+.coverage
+htmlcov/
+
+# Local environment
+.env
+.env.local
+.env.*
+
+# Keep committed template
+!.env.example

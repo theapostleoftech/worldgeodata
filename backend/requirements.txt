@@ -1,0 +1,14 @@
+fastapi==0.116.1
+uvicorn[standard]==0.34.0
+sqlalchemy[asyncio]==2.0.40
+asyncpg==0.30.0
+geoalchemy2==0.17.1
+pydantic==2.11.3
+pydantic-settings==2.8.1
+redis==5.2.1
+celery==5.5.0
+httpx==0.28.1
+orjson==3.10.16
+python-multipart==0.0.20
+pytest==8.3.5
+pytest-asyncio==0.25.3

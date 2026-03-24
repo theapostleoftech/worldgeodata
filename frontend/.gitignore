@@ -1,0 +1,14 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.turbo/
+.eslintcache
+
+# Local environment
+.env
+.env.local
+.env.*
+
+# Keep committed template
+!.env.example
